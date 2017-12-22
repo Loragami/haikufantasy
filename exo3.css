@@ -15,7 +15,6 @@ header.main-container {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  position: absolute;
   height: 100vh;
   width : 100vw;
 }
@@ -37,7 +36,7 @@ p{
   margin-right: 10px;
 }
 .first {
-  background-image: url(/home/blank-user13/_blank/CSS/approfondissement/21609c22d1672c19f2894417a74344f1.jpg);
+  background-image: url(/home/blank-user13/_blank/haikufantasy/21609c22d1672c19f2894417a74344f1.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
