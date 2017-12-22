@@ -5,7 +5,6 @@
 }
 body{
   background-image: url(/home/blank-user13/_blank/haikufantasy/17867-1376251278.jpg);
-
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -16,6 +15,7 @@ header.main-container {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  position: absolute;
   height: 100vh;
   width : 100vw;
 }
